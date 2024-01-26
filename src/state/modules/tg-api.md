@@ -1,0 +1,9 @@
+https://dev-telegram.ara-sss.net/api/register
+https://dev-telegram.ara-sss.net/api/login
+https://dev-telegram.ara-sss.net/api/logout
+https://dev-telegram.ara-sss.net/api/chats
+https://dev-telegram.ara-sss.net/api/open-chat
+https://dev-telegram.ara-sss.net/api/delete-chat
+https://dev-telegram.ara-sss.net/api/send-message
+https://dev-telegram.ara-sss.net/api/show-users
+https://dev-telegram.ara-sss.net/api/start-chat
